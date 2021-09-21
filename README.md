@@ -1,4 +1,4 @@
-# Indoor_Localization
+# Trilateration
 
 This is a project done as a part of the course Smart Sensing for IoT
 which deals with Trilateration of a Node in a 100x100 grid given the range measurements from
